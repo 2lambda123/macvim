@@ -1,0 +1,190 @@
+repo_name: 2lambda123/macvim
+report_id: c3055cde7c899fc34b0fa54c86a7e140
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:20:59+00:00'
+requested_by: splhack
+provider: github
+branch: experimental/iTerm2-PSMTabBarControl
+detected_tools_count: 17
+tools:
+- name: AWK
+  description: A language for text processing, data extraction and reporting
+  website_url: https://github.com/onetrueawk/awk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Assembly Language
+  description: A low-level programming language
+  website_url: https://en.wikipedia.org/wiki/Assembly_language
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/2lambda123/macvim/blob/experimental/iTerm2-PSMTabBarControl/runtime/tutor/tutor.cs
+  detection_source: runtime/tutor/tutor.cs
+  last_updated_by: vimboss
+  last_updated_on: 2007-05-05 17:54:07.000000000 Z
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Smalltalk
+  description: An object-oriented, dynamically typed reflective programming language
+  website_url: http://en.wikipedia.org/wiki/Smalltalk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2624/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/macvim/blob/experimental/iTerm2-PSMTabBarControl/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Bram Moolenaar
+  last_updated_on: 2015-09-15 17:18:18.000000000 Z
+- name: NSIS
+  description: Professional open source system to create Windows installers
+  website_url: http://nsis.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4728/Box.gif
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Postscript
+  description: Mailchimp for SMS
+  website_url: https://www.postscript.io/
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Voice and SMS
+  image_url: https://img.stackshare.io/service/10628/YjdR4whL_400x400.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
+- name: prolog
+  description: é uma linguagem de programação que se enquadra no paradigma de Programação
+    em Lógica Matemática.
+  website_url: http://www.swi-prolog.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10124/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/macvim
+  detection_source: Repo Metadata
